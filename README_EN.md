@@ -1,6 +1,6 @@
 # BidTech Writer · AI-Assisted Bidding Technical Proposal Tool
 
-[中文](#中文) | [English](#english)
+[中文](README.md) | [English](README_EN.md)
 
 ---
 
