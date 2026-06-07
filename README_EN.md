@@ -15,7 +15,7 @@ When writing bidding technical proposals, do you face these challenges:
 - **Risk control content leaks into the proposal** — Scoring values and disqualification clauses end up in the main text, becoming grounds for point deductions
 - **Endless rework cycles** — Each rejection means rewriting from scratch, with no structured process control
 
-ZBiD addresses this through a **9-step fixed workflow + 9 independent Skill files**, ensuring AI follows rules step by step, produces files for your review at each stage, guarantees complete response to every technical requirement, and physically isolates risk control content from the proposal text.
+ZBID addresses this through a **9-step fixed workflow + 9 independent Skill files**, ensuring AI follows rules step by step, produces files for your review at each stage, guarantees complete response to every technical requirement, and physically isolates risk control content from the proposal text.
 
 ---
 
