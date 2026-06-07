@@ -1,6 +1,6 @@
-# BidTech Writer · AI辅助投标技术方案编制工具
+# BidTech Writer(ZBID) · AI辅助投标技术方案编制工具
 
-[中文](#中文) | [English](#english)
+[中文](README.md) | [English](README_EN.md)
 
 ---
 
